@@ -1,6 +1,6 @@
 # Welcome to SocialSphereDB 🚀
 
-Hey there, social butterflies! 🦋 Get ready to dive into the future of social networking with **SocialSphereDB** - the coolest Database Management System (DBMS) around! 🌐
+Get ready to dive into the future of social networking with **SocialSphereDB** - the coolest Database Management System (DBMS) around! 🌐
 
 ## Meet the Masterminds!
 
