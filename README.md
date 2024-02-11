@@ -6,7 +6,7 @@ Get ready to dive into the future of social networking with **SocialSphereDB** -
 
 [**Saransh Bangar**](https://www.linkedin.com/in/saransh-bangar/) - Coding ninja and architect of the digital revolution.
 
-[**Sanya Singh**]() - Creative genius and the wizard behind the user experience magic.
+[**Sanya Singh**](https://github.com/sanyarox) - Creative genius and the wizard behind the user experience magic.
 
 ## What's the Buzz About?
 
